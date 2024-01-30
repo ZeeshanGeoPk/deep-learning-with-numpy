@@ -1,2 +1,2 @@
 # Deep Learning using numpy only
-In this notebook we have developed a Deep Learning Model using numpy only. None of the frameworks like tensorflow, pytorch or keras are used. Problem was to predict the output of a random sequence with 1s and 0s. The output should be either 1 or 0. Output will be 1 if there are even number of 1s in the sequence otherwise it should be 0.
+This notebook demonstrates the creation of a Deep Learning Model exclusively utilizing numpy, without relying on frameworks such as TensorFlow, PyTorch, or Keras. The objective was to predict the outcome of a random sequence composed of 1s and 0s. The desired output is either 1 or 0, with the rule that the output is 1 if the sequence contains an even number of 1s; otherwise, the output should be 0.
